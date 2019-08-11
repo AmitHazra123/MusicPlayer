@@ -1,0 +1,21 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "This is the music player app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Amit Hazra",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
