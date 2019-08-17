@@ -154,6 +154,7 @@ class Home extends Component {
               ToastAndroid.SHORT
             );
         });
+        song.setNumberOfLoops(-1);
       } else {
         song.pause();
       }

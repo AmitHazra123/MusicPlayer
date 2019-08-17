@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.reactnativeanimation2">
+  package="com.reactnativeanimation2"
+    android:versionCode="050000001"
+    android:versionName="0.0.1"
+    >
 
     <uses-permission android:name="android.permission.INTERNET" />
 
